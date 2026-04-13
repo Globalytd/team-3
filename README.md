@@ -6,7 +6,7 @@ Ideas: Food finder app, online ai tutor
 Lets tackle World hunger!
 Business name potentially : <h>URwelcome =) (YOu are wlcome)<h>
 
-<p>This app will locate doners or restuarants willing to give free fodd to the homeless, our 'workers' will go get this food and buy it to our facilities to help fmailies that need it.<p>
+<p>This app will locate restuarants or doners willing to give free fodd to the homeless, our 'workers' will go get this food and buy it to our facilities to help fmailies that need it.<p>
 
 <h>inspiration<h>
 <li> the wars that are being hidden from us.<li>
