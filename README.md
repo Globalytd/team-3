@@ -4,7 +4,7 @@ Joy, Naomi, Divine
 Ideas: Food finder app, online ai tutor
 
 Lets tackle World hunger!
-Business name potentially : <h>URwelcome =) (YOu are wlcome)<h>
+Business name potentially : <h>URwelcome =) (You are welcome)<h>
 
 <p>This app will locate restuarants or doners willing to give free fodd to the homeless, our 'workers' will go get this food and buy it to our facilities to help fmailies that need it.<p>
 
